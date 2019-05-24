@@ -26,7 +26,7 @@ h1, h2 {
 
 h1 {
 	font-size: 30px;
-	border-bottom: 2px solid #ccc;
+	border-bottom: 2px solid #cccccc;
 }
 
 h2 {
@@ -107,7 +107,9 @@ footer {
 #content {
 	float: left;
 	width: 650px;
+	background-color: #ffffff;
 }
+
 
 img{
 	float: left;

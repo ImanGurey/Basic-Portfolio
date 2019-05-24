@@ -1,5 +1,4 @@
 # Basic-Portfolio
-basic-portfolio
 This is part two of the first assignment where we were required to build a professional portfolio site using HTML/CSS.
 
 Getting Started

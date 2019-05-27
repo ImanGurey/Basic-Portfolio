@@ -3,8 +3,7 @@ This is part two of the first assignment where we were required to build a profe
 
 Getting Started
 Click on the following link to preview the completed assignment.
-https://ImanGurey.github.oi/basic-portfolio
-
-Built With
-HTML5
-CSS3
+  https://imangurey.github.io/Basic-Portfolio/
+*Built With
+*HTML
+*CSS
